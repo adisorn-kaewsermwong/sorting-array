@@ -30,14 +30,14 @@ $ npx jest reverse-array.service.spec.ts
 $ npx jest merge-sorting-main-function.service.spec.ts
 ```
 
-# Dependency Install List
+## Dependency Install List
 
 ```bash
 # Install validation
 $ npm install class-validator class-transformer
 ```
 
-# Execute Code
+## Execute Code
 
 ```bash
 # Execute code 
